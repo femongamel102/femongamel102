@@ -1,6 +1,6 @@
+![Design and Development](https://marcospernica.com/wp-content/themes/the-code-predator/img/default_thumbnail.jpg)
 ### Hi there 👋, Femon Gamel
 #### Design and Development
-![Design and Development](https://marcospernica.com/wp-content/themes/the-code-predator/img/default_thumbnail.jpg)
 
 I'm Femon from Egypt, and I do content on Design and Development in Mobbile Application.
 I really enjoy learning languages and framworks like React Native and Flutter 
