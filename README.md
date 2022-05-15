@@ -1,6 +1,6 @@
 ### Hi there 👋, Femon Gamel
 #### Design and Development
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and Development](https://marcospernica.com/wp-content/themes/the-code-predator/img/default_thumbnail.jpg)
 
 I'm Femon from Egypt, and I do content on Design and Development. 
 I really enjoy learning languages and framworks like React Native and Flutter 
