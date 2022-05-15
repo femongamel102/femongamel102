@@ -10,9 +10,10 @@ I really enjoy learning languages and framworks like React Native and Flutter
 Skills: REACT NATIVE / FLUTTER / DART / Nodejs / Fire Base 
 
 ## Examples of Work
-<a href="https://youtu.be/pFPh29XHrBw?feature=player_embedded&v=https://youtu.be/pFPh29XHrBw
-" target="_blank"><img src="https://youtu.be/pFPh29XHrBw" 
+<a href="https://www.youtube.com/watch?v=pFPh29XHrBw?feature=player_embedded&v=pFPh29XHrBw
+" target="_blank"><img src="http://img.youtube.com/vi/pFPh29XHrBw/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="240" border="10" /></a>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/femongamel102)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/femongamel102)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/femongamel102/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/femon.gamel.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/femoo_gamell/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19120146)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UChIGrYKw0ZEexwGPzovNfaA)  
 
