@@ -10,7 +10,7 @@ I really enjoy learning languages and framworks like React Native and Flutter
 Skills: REACT NATIVE / FLUTTER / DART / Nodejs / Fire Base 
 
 ## Examples of Work
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+<a href="https://youtu.be/pFPh29XHrBw?feature=player_embedded&v=https://youtu.be/pFPh29XHrBw
 " target="_blank"><img src="https://youtu.be/pFPh29XHrBw" 
 alt="IMAGE ALT TEXT HERE" width="240" height="240" border="10" /></a>
 
