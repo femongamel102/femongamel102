@@ -1,4 +1,4 @@
-![Design and Development](https://marcospernica.com/wp-content/themes/the-code-predator/img/default_thumbnail.jpg)
+![Design and Development](https://www.softwebsolutions.com/wp-content/uploads/2020/10/flutter-app-developer.jpg)
 # Femon Gamel 👋
 I'm Femon from Egypt, and I do content on Design and Development in Mobbile Application.
 I really enjoy learning languages and framworks like React Native and Flutter 
