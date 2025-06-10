@@ -62,20 +62,20 @@ Cloud & Deployment: Azure Services, LCS
 - Integrated with API and C# services to fetch data in the factory.
 - Implemented a success/failure tracking system for price updates.
 
-Auto Salesman Setup in AX
-Developed an X++ class and form to generate the next salesman with Chosen of salesman Type and one button Creation.
-Class creates the salesman and its warehouse ,driver and commission etc.
-Automatic Creation for the whole Cycle without Human Issues.
-Integration with ADFS for On-Prem
-Configured  Active Directory Federation Services (ADFS) for authentication.
-Ensured secure single sign-on (SSO) for on-premise environments.
-Developed custom authentication flows to meet enterprise security requirements.
-Power BI Data Entities
-Created custom data entities for Power BI to facilitate real-time business insights.
-Optimized data extraction and transformation processes to improve report accuracy.
-Integrated Power BI dashboards with Dynamics 365 F&O for financial and operational analysis.
-Fingerprint Machine Integration for Attendance Tracking
-Developed a C# project to integrate a biometric fingerprint machine with Dynamics 365 F&O.
-Collected employee attendance data and inserted it into the Dynamics database.
-Ensured real-time synchronization between the fingerprint machine and ERP system.
-Implemented data validation and error handling to improve accuracy.
+### Auto Salesman Setup in AX
+- Developed an X++ class and form to generate the next salesman with Chosen of salesman Type and one button Creation.
+- Class creates the salesman and its warehouse ,driver and commission etc.
+- Automatic Creation for the whole Cycle without Human Issues.
+### Integration with ADFS for On-Prem
+- Configured  Active Directory Federation Services (ADFS) for authentication.
+- Ensured secure single sign-on (SSO) for on-premise environments.
+- Developed custom authentication flows to meet enterprise security requirements.
+### Power BI Data Entities
+- Created custom data entities for Power BI to facilitate real-time business insights.
+- Optimized data extraction and transformation processes to improve report accuracy.
+- Integrated Power BI dashboards with Dynamics 365 F&O for financial and operational analysis.
+### Fingerprint Machine Integration for Attendance Tracking
+- Developed a C# project to integrate a biometric fingerprint machine with Dynamics 365 F&O.
+- Collected employee attendance data and inserted it into the Dynamics database.
+- Ensured real-time synchronization between the fingerprint machine and ERP system.
+- Implemented data validation and error handling to improve accuracy.
