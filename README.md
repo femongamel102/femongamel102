@@ -4,10 +4,18 @@ Highly skilled and motivated Senior Microsoft Dynamics 365 F&O Developer with al
 
 
 ## Skills and Experience
-- 📱 React Native
-- 📱 Flutter
+- 📱 Microsoft Dynamics AX 2012
+- 📱 Microsoft Dynamics 365 F&O
 
-Skills: REACT NATIVE / FLUTTER / DART / Nodejs / Fire Base 
+Skills: 
+Advanced Development: SysOperation Framework, Extensions, Event Handlers, Data Entities, Business Events , Data Migrations, Data Managements.
+Programming Languages: X++, C#, .NET, SQL
+ERP & Modules: Microsoft Dynamics 365 F&O, AX 2012 (Finance & SCM)
+Reports & BI: SSRS, Power BI, 
+Integrations & APIs: AIF, OData, REST APIs
+Database Management: SQL Server
+Version Control & DevOps: Azure DevOps, Git
+Cloud & Deployment: Azure Services, LCS
 
 ## Examples of Work
 <a href="https://www.youtube.com/watch?v=pFPh29XHrBw?feature=player_embedded&v=pFPh29XHrBw
