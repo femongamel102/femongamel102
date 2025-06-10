@@ -19,13 +19,13 @@ Cloud & Deployment: Azure Services, LCS
 
 ## Examples of Work
 
-# Public Prosecution – Customizations & Extensions
+### Public Prosecution – Customizations & Extensions
 
 Developed custom extensions and modifications to align Dynamics 365 F&O with legal requirements.
 Solved package deployment issues and optimized system performance.
 Enhanced security roles and workflows to ensure compliance with legal standards.
 
-# Link Misr – Full Customization, Reports & Extensions
+### Link Misr – Full Customization, Reports & Extensions
 Led the entire Link Misr project independently, handling all customizations, configurations, and deployments to ensure a successful launch.
 Designed and developed custom forms, reports, and setups to enhance business processes.
 Implemented workflow automation, security configurations, and role-based access controls to optimize operations.
